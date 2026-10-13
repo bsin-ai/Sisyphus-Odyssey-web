@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://billwarren3169-maker.github.io/Sisyphus-Odyssey-web/">
+  <a href="https://bsin-ai.github.io/Sisyphus-Odyssey-web/">
     <img src="https://github.com/user-attachments/assets/e51bec65-bd46-4971-b6a2-f0546c939705" alt="Sisyphus Odyssey Banner" width="100%">
   </a>
 </p>
@@ -50,7 +50,7 @@
 
 1.  **克隆仓库**：
     ```bash
-    git clone [https://github.com/billwarren3169-maker/Sisyphus-Odyssey-web.git](https://github.com/billwarren3169-maker/Sisyphus-Odyssey-web.git)
+    git clone https://github.com/bsin-ai/Sisyphus-Odyssey-web.git
     ```
 2.  **环境要求**：
     * 无需任何构建步骤。
